@@ -1,0 +1,10 @@
+{
+  "apps": [
+    {
+      "name": "exchangeServer",
+      "error_file": "/var/log/pm2/exchangeServer.error.log",
+      "out_file": "/var/log/pm2/exchangeServer.out.log",
+      "script": "./lib/server/index.js"
+    }
+  ]
+}

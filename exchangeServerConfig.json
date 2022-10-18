@@ -1,0 +1,5 @@
+{
+  "listenHost": "127.0.0.1",
+  "listenPort": 8008,
+  "couchUri": "http://admin:admin@localhost:5984"
+}
